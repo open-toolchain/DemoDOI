@@ -4,19 +4,11 @@
       "alwaysOmit": true
     },
     {
-      "cve": "SNYK-JS-NANOID-2332193",
-      "alwaysOmit": true
-    },
-    {
       "cve": "SNYK-JS-CSSWHAT-1298035",
       "alwaysOmit": true
     },
     {
       "cve": "SNYK-JS-ANSIREGEX-1583908",
-      "alwaysOmit": true
-    },
-    {
-      "cve": "SNYK-JS-NODEFETCH-2342118",
       "alwaysOmit": true
     }
 ]
