@@ -1,3 +1,6 @@
+# This application repo has been deprecated and is no longer supported. It was the sample application for the Dra-Toolchain-Demo template:
+## https://github.com/open-toolchain/dra-toolchain-demo
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
